@@ -1,2 +1,2 @@
 # Joint-Multi-Layer-LTA
-This is a repository for the code corresponding to the Joint Multi-Layer LTA project.
+Repository for code corresponding to the 'Bayesian Joint Modeling of Longitudinal Symptomatology Scale Responses and Fall Outcomes via Multi-Layer Latent Transition Analysis' manuscript.
