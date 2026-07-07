@@ -1,4 +1,4 @@
-## Data generation function for Joint Multi-Layer LTA simulation
+## Data generation function for Joint Multi-Layer LTA simulation 
 
 sim_JointLTA_data <- function(N, L, K, Time, dk, R, br, pi, tau, item_p, beta, type, J = NULL){
 
